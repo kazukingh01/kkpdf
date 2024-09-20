@@ -25,9 +25,9 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-        'PyMuPDF==1.22.5',
-        'reportlab==4.0.9',
-        'Pillow==10.0.0',
+        'PyMuPDF==1.23.26',
+        'reportlab==4.2.2',
+        'Pillow==10.4.0',
         'wheel>=0.37.0',
     ],
     python_requires='>=3.12.2'
